@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python and html.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? - You can reach me with the help of my social media account.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Teacher
+- 😄 Pronouns: he
+- ⚡ Fun fact: I enjoy all thing
 
 <!---
 2005shivam/2005shivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
