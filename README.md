@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2005shivam
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and html.
+- 🌱 I’m currently learning JavaScript and html.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? - You can reach me with the help of my social media account.
 - 😄 Pronouns: he
